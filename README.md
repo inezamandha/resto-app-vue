@@ -1,5 +1,36 @@
-# Vue 3 + Vite
+# ✅ Vue 3 To-Do List
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A modern and responsive restaurant web app built with Vue 3 and Vite.
+Manage bookings, display menus, and easily add or edit dishes using a clean admin-friendly UI.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## ✨ Features
+
+- Built using the Vue 3 Composition API
+- Routing with Vue Router
+- Homepage with welcome message
+- Booking form with fields: name, email, date/time, number of people, and special requests
+- Menu page displaying all food items
+- Add and edit menu items using a modal popup
+- Default image for new dishes
+- Responsive layout for desktop & mobile
+- Data served with `json-server` as mock API
+
+---
+
+## 🛠 Project Setup
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+## 🛠 Project Commands
+
+### Start development server with hot reload
+
+```bash
+npm run dev
+```
