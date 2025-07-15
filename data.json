@@ -1,0 +1,87 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "name": "Chicken Burger",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "/src/assets/img/menu-1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Chicken Burger",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "/src/assets/img/menu-2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Chicken Burger",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "/src/assets/img/menu-3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Chicken Burger",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "/src/assets/img/menu-4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Chicken Burger",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "/src/assets/img/menu-5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Chicken Burger",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "/src/assets/img/menu-6.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Chicken Burger",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "/src/assets/img/menu-7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Chicken Burger",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "/src/assets/img/menu-8.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Chicken",
+      "detail": "yummy",
+      "price": "$110",
+      "image": "/src/assets/img/menu-1.jpg"
+    }
+  ],
+  "bookings": [
+    {
+      "name": "Lala",
+      "email": "apravida@hacktiv8.com",
+      "people": "3",
+      "booking_date": "2024-01-06T20:26",
+      "special_request": "no",
+      "created_date": "2023-12-25T13:26:23.363Z",
+      "id": "1"
+    },
+    {
+      "id": "d603",
+      "name": "Inez",
+      "email": "inez@mail.com",
+      "booking_date": "2025-07-15T15:54",
+      "people": 1,
+      "special_request": "test",
+      "created_date": "2025-07-15T08:54:59.860Z"
+    }
+  ]
+}
